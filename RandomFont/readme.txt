@@ -13,7 +13,7 @@ Command line parameters:
   RandomFonts.exe <input file> [-o <output file>] [-f <font file>]
 If output file does not have .rtf extension, the .rtf extension will be added.
 The font file is a text file with one font name on each line.
-The output file should work with any reader supporting rtf files, provided that the
+The output file should work with any reader supporting RTF files, provided that the
 fonts used are installed on the system.
 
 =========================================================================================
